@@ -107,3 +107,140 @@ Meu nome é Bruno Cardoso, trabalho com desenvolvimento mobile com foco em Andro
 - :ballot_box_with_check: Kotlin, Git, Swift, React Native
 - :ballot_box_with_check: HTML5, CSS3, JS, SASS
 - :books: Estudando Deploy Automatizado, Testes Instrumental e Integração Continua.
+
+
+
+# Hi, There! I'm [Avadhut](https://avdhut.ml) 🙋‍♂️
+
+#### 🎍 Welcome To My Github Profile 👨‍💻
+
+- 📱 Android App Developer.
+- 💻 Computer Science Engineering Student.
+- 🐧 Linux and Open Source Enthusiast.
+- 👨‍💻 Mostly Working On Android, Kotlin 💙.
+- 🌐 Want To Get Into Backend, Ktor/Spring.
+
+<img src="https://github-readme-stats.vercel.app/api?username=mrwhoknows55" alt="MrWhoKnows' Stats" /><!-- Force inline -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrwhoknows55" alt="MrWhoKnows' Top Langs" /> <!-- Force inline -->
+
+
+
+
+
+### Hi there 👋
+
+<!-- Your title -->
+## I'm Arda, a Developer 🚀 from Turkey.
+
+
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ardakazanci)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ardakazanci/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/kzncrda/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:akazancidvp@gmail.com)
+
+
+
+<!-- Talking about you -->
+**Talking about Personal Stuffs:**
+
+<!-- Any image aligned to the right. Beware the width 
+<img width="30%" align="right" alt="Github" src="https://i.imgur.com/yru8Y91.png" /> -->
+
+- 👨🏻‍💻 I’m currently working on modern android application development techniques.
+- 🌱 I’m currently learning Kotlin and Flow.
+- 👯 I am looking for volunteer colleagues to work for my company.🤝
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ Fun-Fact: I have a degree in CEIT;
+- 📫 How to reach me: akazancidvp@gmail.com;
+
+
+
+<!-- 
+**Languages and Tools:** 
+Your github readme stats
+You can use this api: https://github.com/anuraghazra/github-readme-stats
+-->
+<p>
+
+  
+  <!-- Your languages and tools. Be careful with the alignment. 
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
+</p>
+  -->
+  
+**My Stats**
+
+<p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img  src="https://github-readme-stats.vercel.app/api?username=ardakazanci&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&layout=compact" />
+</a>
+  </p>
+  
+  [![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kzncrda&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact)](https://github.com/ardakazanci/github-readme-stats)
+  
+---
+
+<p>
+  <a href="http://hits.dwyl.com/ardakazanci/Heyyoo" target="_blank">
+    <img alt="HitCount" src="http://hits.dwyl.com/ardakazanci/Heyyoo.svg" />
+  </a>
+    <img src="https://komarev.com/ghpvc/?username=ardakazanci&color=blue&style=flat-square" />
+</p>
+
+
+
+
+---
+
+⭐️ From [ardakazanci](https://github.com/ardakazanci)
+
+
+
+### Hi there, I'm Spikey👋
+
+
+# A Passionate Android Developer & UI/UX Designer 🚀 
+
+## About Me 🤷🏻‍♂️
+
+* 📱 Android Developer &  UI/UX Ninja 🦹🏻‍♂️ 
+* 😌 Founder of [@TheCodeMonks](https://github.com/TheCodeMonks) Open Source Organisation
+* 🐶 Creator of Blue Cross Of India App
+* 📸 Tech Youtuber [@Insane_Developer](https://www.youtube.com/channel/UC4sjtDCIHMTwWg5k1_eHiug)
+* 📝 Open Source Contributor
+* 🚀 Love towards Rocket Science Never ends
+
+<details>
+  <summary><b>📊 Github Stats</b></summary>
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=spikeysanju&count_private=true&show_icons=true&include_all_commits=true" alt="Spikey Sanju | Stats" />
+</details>
+
+## Reach me via 👇
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/spikeysanju/)
+[![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/sanjay_spikey)
+[![Youtube](https://img.shields.io/badge/Youtube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC4sjtDCIHMTwWg5k1_eHiug)
+[![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/insane.dvlpr/)
+[![Dribbble](https://img.shields.io/badge/Dribbble-pink.svg?style=for-the-badge&logo=dribbble)](https://dribbble.com/spikeysanju)
+[![Dev.to](https://img.shields.io/badge/Dev.to-black.svg?style=for-the-badge&logo=dev)](https://dev.to/sanjay_spikey)
+
+
+## Projects made with ❤️ 👇
