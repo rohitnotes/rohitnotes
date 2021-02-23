@@ -390,3 +390,46 @@ Here are some ideas to get you started:
 [youtube]: https://www.youtube.com/channel/UC9xHSE90mPrIB0DoHzcZxSA/
 [twitter]: https://twitter.com/yash786agg
 [instagram]: https://www.instagram.com/iamyashagg/
+
+
+# Hi, I'm Sergio Sánchez Sánchez 👋🏽
+
+<img width=256 align="right" src="https://raw.githubusercontent.com/sergio11/sergio11/master/images/android_developer.gif" />
+
+I am a **Native Mobile developer**, with some experience in Hybrid development and Cross-Platform development with technologies such as Xamarin, Ionic, Flutter .... I also have knowledge and experience in server-side technologies such as PHP (Symfony, Laravel, Silex, Slim), Python (Django, Flask), NodeJS (Express, Sailsjs) and above all I love the **Spring ecosystem** and JavaEE or Jakarta EE ;)
+
+![Profile views](https://gpvc.arturio.dev/sergio11)
+
+## :computer: Developer Skills
+
+<details>
+	<summary>Server-side technologies</summary>
+	<ul>
+		<li><b>PHP</b>:  SlimPHP, Symfony, Laravel, Silex.</li>
+		<li><b>Python</b>: DJango. Flask</li>
+		<li><b>DB</b>: Oracle 10g, 11g, 12c,  MariaDB, MongoDB, RealmDB, PostgreSQL. </li>
+		<li><b>Javascript</b>: Nodejs (Express, SailsJS)</li>
+		<li><b>Java</b>: J2EE, Struts2, Java Server Faces (PrimeFaces) Spring Framework, Spring Boot.</li>
+</details>
+
+<details>
+	<summary>Frontend Web</summary>
+	<ul>
+		<li>HTML5/CSS3 (Bootstrap, Bulma ...).</li>
+    <li>Angular.</li>
+	  <li>React JS.</li>
+	  <li>JavaScript Vanilla ES6, ES5.</li>
+	</ul>
+</details>
+
+<details>
+	<summary>Mobile Development</summary>
+	<ul>
+	   <li>Android Native.</li>
+	   <li>Framework 7.</li>
+	   <li>Ionic.</li>
+	   <li>Xamarin Forms.</li>
+	   <li>IOS.</li>
+	<li>Flutter.</li>
+	</ul>
+</details>
